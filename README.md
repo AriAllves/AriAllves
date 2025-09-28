@@ -1,5 +1,6 @@
-## Olá, bem-vindo(a) ao meu perfil! 
-       Eu sou Ariane Alves😁
+## Olá, bem-vindo(a) ao meu perfil!😁
+
+![Status](https://img.shields.io/badge/Em%20aprendizado-Front--end%20%7C%20Backend-blueviolet?style=for-the-badge)
 
  <div>
    <a href="https://github.com/AriAllves">
