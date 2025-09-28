@@ -1,6 +1,6 @@
 ## Olá, bem-vindo(a) ao meu perfil!😁
 
-![Status](https://img.shields.io/badge/Em%20aprendizado-Front--end%20%7C%20Backend-blueviolet?style=for-the-badge)
+![Status](https://img.shields.io/badge/Em%20aprendizado-Front--end%20%7C%20Back--end-blueviolet?style=for-the-badge)
 
  <div>
    <a href="https://github.com/AriAllves">
